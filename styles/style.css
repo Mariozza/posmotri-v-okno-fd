@@ -103,7 +103,6 @@ column-gap: 40px;
   display: flex;
   width: fit-content;
   margin-top: 6px;
-  position: relative;
 }
 
 .search-form__textfield {
@@ -298,8 +297,4 @@ outline-offset: 1px;
 .content__card-link:focus-visible .content__video-card {
   text-decoration: none;
   outline: 1px solid white;
-}
-
-.preloader {
-  position: absolute;
 }
