@@ -16,8 +16,7 @@ html {
   font-family: "Fira Sans Condensed", sans-serif;
   font-size: 18px;
   background-color: #1b1919;
-  display: flex;                      /* inc*/ 
-  margin:auto;
+  display: flex;
   align-items: center;
   
 }
@@ -205,7 +204,7 @@ outline-offset: 1px;
   font-size: 75px;
   font-weight: 700;
   text-transform: uppercase;
-  line-height: 70.5px; 
+  line-height: 70.5px;
   padding-bottom: 22px;
   margin-top: 3px;
 }
@@ -300,6 +299,6 @@ outline-offset: 1px;
   outline: 1px solid white;
 }
 
-.preloader{
+.preloader {
   position: absolute;
 }
