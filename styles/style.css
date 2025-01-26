@@ -117,7 +117,6 @@ ol {
   border-style: solid none;
   border-width: 1px;
   border-color: white;
-  line-height: 20px;
 }
 
 .search-form__textfield:focus {
