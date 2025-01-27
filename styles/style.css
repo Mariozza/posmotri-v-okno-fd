@@ -203,6 +203,10 @@ ol {
   outline-offset: 1px;
 }
 
+.content__details {
+  align-self: start;
+}
+
 .title {
   font-family: "Oswald", sans-serif;
   font-size: 75px;
@@ -229,6 +233,10 @@ ol {
   display: grid;
   row-gap: 28px;
   padding-bottom: 30px;
+}
+
+.result {
+  padding-top: 78px;
 }
 
 .content__video-card {
